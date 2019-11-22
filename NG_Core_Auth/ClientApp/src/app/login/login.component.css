@@ -1,0 +1,8 @@
+/*
+30.2 Kreiranje onSubmit buttona
+  dodavanje poruke u slucaju greske
+*/
+.errorMessage {
+  color:red;
+}
+
